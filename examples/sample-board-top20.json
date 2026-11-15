@@ -1,794 +1,1043 @@
 {
- "note": "First 20 rows of the board this entry writes from the sealed snapshot (as_of 2026-11-14), produced by a real run of main.ts during development.",
- "rows": [
-  {
-   "rank": 1,
-   "slug": "steakhouse-financial",
-   "name": "Steakhouse Financial",
-   "category": "Risk Curators",
-   "chains": [
-    "Base",
-    "Ethereum",
-    "Robinhood Chain",
-    "Arbitrum",
-    "Solana",
-    "Monad",
-    "Arc",
-    "Katana",
-    "Polygon",
-    "Unichain",
-    "Corn"
-   ],
-   "tvl_usd": 2753981495,
-   "change_7d": -2.1935,
-   "mcap_usd": null,
-   "listed_at": "2025-05-20",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 543,
-   "implied_value_usd": 416207783,
-   "model": {
-    "category_multiple": 0.1914,
-    "category_peers": 1,
-    "growth_pct": -2.1935,
-    "growth_multiplier": 0.989,
-    "maturity_multiplier": 0.7984,
-    "age_days": 543
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm Steakhouse Financial with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Deposit $150 into a Steakhouse Financial vault on Base and keep the shares. Cost: $150 of capital and about $8 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in Steakhouse Financial, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 30 days so the activity is counted in more than one snapshot. Cost: the $150 stays in the position. Time: 30 days.",
-    "Watch Steakhouse Financial's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 2,
-   "slug": "gauntlet",
-   "name": "Gauntlet",
-   "category": "Risk Curators",
-   "chains": [
-    "Base",
-    "Binance",
-    "Ethereum",
-    "Arbitrum",
-    "Stable",
-    "Morph",
-    "Solana",
-    "Hyperliquid L1",
-    "Polygon",
-    "Optimism",
-    "Unichain",
-    "Katana",
-    "Arc",
-    "Tempo"
-   ],
-   "tvl_usd": 1577685462,
-   "change_7d": 5.645,
-   "mcap_usd": null,
-   "listed_at": "2025-05-20",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 543,
-   "implied_value_usd": 247883260,
-   "model": {
-    "category_multiple": 0.1914,
-    "category_peers": 1,
-    "growth_pct": 5.645,
-    "growth_multiplier": 1.0282,
-    "maturity_multiplier": 0.7984,
-    "age_days": 543
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm Gauntlet with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Deposit $150 into a Gauntlet vault on Base and keep the shares. Cost: $150 of capital and about $8 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in Gauntlet, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 30 days so the activity is counted in more than one snapshot. Cost: the $150 stays in the position. Time: 30 days.",
-    "Watch Gauntlet's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 3,
-   "slug": "veda",
-   "name": "Veda",
-   "category": "Onchain Capital Allocator",
-   "chains": [
-    "Ink",
-    "Ethereum",
-    "Optimism",
-    "Monad",
-    "Plasma",
-    "Hyperliquid L1",
-    "Arbitrum",
-    "Base",
-    "Berachain",
-    "Sonic",
-    "Binance",
-    "BOB",
-    "Scroll"
-   ],
-   "tvl_usd": 1563415482,
-   "change_7d": -8.2898,
-   "mcap_usd": null,
-   "listed_at": "2025-02-20",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 632,
-   "implied_value_usd": 238321586,
-   "model": {
-    "category_multiple": 0.1914,
-    "category_peers": 2,
-    "growth_pct": -8.2898,
-    "growth_multiplier": 0.9586,
-    "maturity_multiplier": 0.8309,
-    "age_days": 632
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm Veda with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Deposit $150 into a Veda vault on Ink and keep the shares. Cost: $150 of capital and about $8 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in Veda, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 30 days so the activity is counted in more than one snapshot. Cost: the $150 stays in the position. Time: 30 days.",
-    "Watch Veda's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 4,
-   "slug": "usdd",
-   "name": "USDD",
-   "category": "CDP",
-   "chains": [
-    "Tron",
-    "Ethereum",
-    "Binance"
-   ],
-   "tvl_usd": 1055793606,
-   "change_7d": -2.8062,
-   "mcap_usd": null,
-   "listed_at": "2025-03-13",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 611,
-   "implied_value_usd": 155704316,
-   "model": {
-    "category_multiple": 0.1817,
-    "category_peers": 3,
-    "growth_pct": -2.8062,
-    "growth_multiplier": 0.986,
-    "maturity_multiplier": 0.8232,
-    "age_days": 611
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm USDD with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Supply $150 of USDC to USDD on Tron and keep the position open. Cost: $150 of capital and about $8 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in USDD, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 30 days so the activity is counted in more than one snapshot. Cost: the $150 stays in the position. Time: 30 days.",
-    "Watch USDD's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 5,
-   "slug": "upshift",
-   "name": "Upshift",
-   "category": "Onchain Capital Allocator",
-   "chains": [
-    "Ethereum",
-    "Stellar",
-    "Flare",
-    "Monad",
-    "Hyperliquid L1",
-    "Avalanche",
-    "Solana",
-    "Fluent",
-    "Base",
-    "Citrea",
-    "Sui",
-    "Plasma",
-    "Binance",
-    "Mezo",
-    "Ink"
-   ],
-   "tvl_usd": 499083733,
-   "change_7d": 8.3117,
-   "mcap_usd": null,
-   "listed_at": "2024-12-04",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 710,
-   "implied_value_usd": 85501655,
-   "model": {
-    "category_multiple": 0.1914,
-    "category_peers": 2,
-    "growth_pct": 8.3117,
-    "growth_multiplier": 1.0416,
-    "maturity_multiplier": 0.8594,
-    "age_days": 710
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm Upshift with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Deposit $100 into a Upshift vault on Ethereum and keep the shares. Cost: $100 of capital and about $4 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in Upshift, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 30 days so the activity is counted in more than one snapshot. Cost: the $100 stays in the position. Time: 30 days.",
-    "Watch Upshift's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 6,
-   "slug": "bittensor-dtao",
-   "name": "Bittensor dTAO",
-   "category": "Dexs",
-   "chains": [
-    "Bittensor"
-   ],
-   "tvl_usd": 376026255,
-   "change_7d": -6.5592,
-   "mcap_usd": null,
-   "listed_at": "2026-09-19",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 56,
-   "implied_value_usd": 68193367,
-   "model": {
-    "category_multiple": 0.3022,
-    "category_peers": 11,
-    "growth_pct": -6.5592,
-    "growth_multiplier": 0.9672,
-    "maturity_multiplier": 0.6205,
-    "age_days": 56
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm Bittensor dTAO with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Provide $100 of liquidity to Bittensor dTAO's main pool on Bittensor and keep the position open. Cost: $100 of capital and about $4 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in Bittensor dTAO, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 60 days so the activity is counted in more than one snapshot. Cost: the $100 stays in the position. Time: 60 days.",
-    "Watch Bittensor dTAO's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 7,
-   "slug": "onre",
-   "name": "OnRe",
-   "category": "RWA",
-   "chains": [
-    "Solana"
-   ],
-   "tvl_usd": 308882355,
-   "change_7d": 0.1082,
-   "mcap_usd": null,
-   "listed_at": "2025-07-14",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 488,
-   "implied_value_usd": 59914112,
-   "model": {
-    "category_multiple": 0.2491,
-    "category_peers": 9,
-    "growth_pct": 0.1082,
-    "growth_multiplier": 1.0005,
-    "maturity_multiplier": 0.7783,
-    "age_days": 488
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm OnRe with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Mint $100 of the protocol's yield asset on Solana and hold it. Cost: $100 of capital and about $4 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in OnRe, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 30 days so the activity is counted in more than one snapshot. Cost: the $100 stays in the position. Time: 30 days.",
-    "Watch OnRe's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 8,
-   "slug": "nonce-capital",
-   "name": "Nonce Capital",
-   "category": "Risk Curators",
-   "chains": [
-    "Ethereum",
-    "Optimism"
-   ],
-   "tvl_usd": 513783671,
-   "change_7d": -9.7377,
-   "mcap_usd": null,
-   "listed_at": "2026-09-30",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 45,
-   "implied_value_usd": 57667966,
-   "model": {
-    "category_multiple": 0.1914,
-    "category_peers": 1,
-    "growth_pct": -9.7377,
-    "growth_multiplier": 0.9513,
-    "maturity_multiplier": 0.6164,
-    "age_days": 45
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm Nonce Capital with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Deposit $100 into a Nonce Capital vault on Ethereum and keep the shares. Cost: $100 of capital and about $4 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in Nonce Capital, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 60 days so the activity is counted in more than one snapshot. Cost: the $100 stays in the position. Time: 60 days.",
-    "Watch Nonce Capital's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 9,
-   "slug": "opentrade",
-   "name": "OpenTrade",
-   "category": "RWA",
-   "chains": [
-    "Avalanche",
-    "Ethereum",
-    "Plume Mainnet"
-   ],
-   "tvl_usd": 241501527,
-   "change_7d": -1.642,
-   "mcap_usd": null,
-   "listed_at": "2024-12-06",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 708,
-   "implied_value_usd": 51229423,
-   "model": {
-    "category_multiple": 0.2491,
-    "category_peers": 9,
-    "growth_pct": -1.642,
-    "growth_multiplier": 0.9918,
-    "maturity_multiplier": 0.8586,
-    "age_days": 708
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm OpenTrade with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Mint $100 of the protocol's yield asset on Avalanche and hold it. Cost: $100 of capital and about $4 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in OpenTrade, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 30 days so the activity is counted in more than one snapshot. Cost: the $100 stays in the position. Time: 30 days.",
-    "Watch OpenTrade's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 10,
-   "slug": "plume-vaults",
-   "name": "Plume Vaults",
-   "category": "RWA",
-   "chains": [
-    "Ethereum",
-    "Plume Mainnet",
-    "Solana",
-    "Binance",
-    "Avalanche"
-   ],
-   "tvl_usd": 211537977,
-   "change_7d": -3.081,
-   "mcap_usd": null,
-   "listed_at": "2024-10-26",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 749,
-   "implied_value_usd": 45324806,
-   "model": {
-    "category_multiple": 0.2491,
-    "category_peers": 9,
-    "growth_pct": -3.081,
-    "growth_multiplier": 0.9846,
-    "maturity_multiplier": 0.8736,
-    "age_days": 749
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm Plume Vaults with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Mint $100 of the protocol's yield asset on Ethereum and hold it. Cost: $100 of capital and about $4 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in Plume Vaults, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 30 days so the activity is counted in more than one snapshot. Cost: the $100 stays in the position. Time: 30 days.",
-    "Watch Plume Vaults's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 11,
-   "slug": "symbiotic",
-   "name": "Symbiotic",
-   "category": "Collateral Markets",
-   "chains": [
-    "Ethereum"
-   ],
-   "tvl_usd": 253923299,
-   "change_7d": -12.0318,
-   "mcap_usd": null,
-   "listed_at": "2024-06-11",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 886,
-   "implied_value_usd": 42189823,
-   "model": {
-    "category_multiple": 0.1914,
-    "category_peers": 0,
-    "growth_pct": -12.0318,
-    "growth_multiplier": 0.9398,
-    "maturity_multiplier": 0.9237,
-    "age_days": 886
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm Symbiotic with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Supply $100 of USDC to Symbiotic on Ethereum and keep the position open. Cost: $100 of capital and about $4 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in Symbiotic, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 30 days so the activity is counted in more than one snapshot. Cost: the $100 stays in the position. Time: 30 days.",
-    "Watch Symbiotic's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 12,
-   "slug": "rockawayx",
-   "name": "RockawayX",
-   "category": "Risk Curators",
-   "chains": [
-    "Ethereum",
-    "Solana",
-    "Pharos",
-    "Monad",
-    "Sei",
-    "Base",
-    "Binance",
-    "Citrea",
-    "Etherlink",
-    "Plume Mainnet"
-   ],
-   "tvl_usd": 292506628,
-   "change_7d": -2.5459,
-   "mcap_usd": null,
-   "listed_at": "2026-03-26",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 233,
-   "implied_value_usd": 37868382,
-   "model": {
-    "category_multiple": 0.1914,
-    "category_peers": 1,
-    "growth_pct": -2.5459,
-    "growth_multiplier": 0.9873,
-    "maturity_multiplier": 0.6851,
-    "age_days": 233
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm RockawayX with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Deposit $100 into a RockawayX vault on Ethereum and keep the shares. Cost: $100 of capital and about $4 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in RockawayX, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 45 days so the activity is counted in more than one snapshot. Cost: the $100 stays in the position. Time: 45 days.",
-    "Watch RockawayX's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 13,
-   "slug": "hive-protocol",
-   "name": "Hive Protocol",
-   "category": "Chain",
-   "chains": [
-    "BSquared"
-   ],
-   "tvl_usd": 198776765,
-   "change_7d": -10.181,
-   "mcap_usd": null,
-   "listed_at": "2024-05-03",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 925,
-   "implied_value_usd": 33866753,
-   "model": {
-    "category_multiple": 0.1914,
-    "category_peers": 1,
-    "growth_pct": -10.181,
-    "growth_multiplier": 0.9491,
-    "maturity_multiplier": 0.9379,
-    "age_days": 925
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm Hive Protocol with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Deposit $100 of USDC into Hive Protocol on BSquared and keep the position open. Cost: $100 of capital and about $4 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in Hive Protocol, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 30 days so the activity is counted in more than one snapshot. Cost: the $100 stays in the position. Time: 30 days.",
-    "Watch Hive Protocol's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 14,
-   "slug": "r25",
-   "name": "R25",
-   "category": "RWA",
-   "chains": [
-    "Pharos",
-    "Sui"
-   ],
-   "tvl_usd": 198206607,
-   "change_7d": 0.2987,
-   "mcap_usd": null,
-   "listed_at": "2026-04-29",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 199,
-   "implied_value_usd": 33262707,
-   "model": {
-    "category_multiple": 0.2491,
-    "category_peers": 9,
-    "growth_pct": 0.2987,
-    "growth_multiplier": 1.0015,
-    "maturity_multiplier": 0.6727,
-    "age_days": 199
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm R25 with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Mint $100 of the protocol's yield asset on Pharos and hold it. Cost: $100 of capital and about $4 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in R25, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 45 days so the activity is counted in more than one snapshot. Cost: the $100 stays in the position. Time: 45 days.",
-    "Watch R25's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 15,
-   "slug": "hyperithm",
-   "name": "Hyperithm",
-   "category": "Risk Curators",
-   "chains": [
-    "Monad",
-    "Ethereum",
-    "Arbitrum",
-    "Plasma",
-    "Solana",
-    "Hyperliquid L1",
-    "Katana",
-    "Stable",
-    "XRPL EVM",
-    "Binance"
-   ],
-   "tvl_usd": 221638535,
-   "change_7d": -4.375,
-   "mcap_usd": null,
-   "listed_at": "2025-05-20",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 543,
-   "implied_value_usd": 33126705,
-   "model": {
-    "category_multiple": 0.1914,
-    "category_peers": 1,
-    "growth_pct": -4.375,
-    "growth_multiplier": 0.9781,
-    "maturity_multiplier": 0.7984,
-    "age_days": 543
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm Hyperithm with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Deposit $100 into a Hyperithm vault on Monad and keep the shares. Cost: $100 of capital and about $4 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in Hyperithm, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 30 days so the activity is counted in more than one snapshot. Cost: the $100 stays in the position. Time: 30 days.",
-    "Watch Hyperithm's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 16,
-   "slug": "k3-capital",
-   "name": "K3 Capital",
-   "category": "Risk Curators",
-   "chains": [
-    "Monad",
-    "Ethereum",
-    "Optimism",
-    "Hyperliquid L1",
-    "Plasma",
-    "Arbitrum",
-    "Binance",
-    "Unichain",
-    "Avalanche"
-   ],
-   "tvl_usd": 207711162,
-   "change_7d": -8.9024,
-   "mcap_usd": null,
-   "listed_at": "2025-05-20",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 543,
-   "implied_value_usd": 30326598,
-   "model": {
-    "category_multiple": 0.1914,
-    "category_peers": 1,
-    "growth_pct": -8.9024,
-    "growth_multiplier": 0.9555,
-    "maturity_multiplier": 0.7984,
-    "age_days": 543
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm K3 Capital with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Deposit $100 into a K3 Capital vault on Monad and keep the shares. Cost: $100 of capital and about $4 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in K3 Capital, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 30 days so the activity is counted in more than one snapshot. Cost: the $100 stays in the position. Time: 30 days.",
-    "Watch K3 Capital's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 17,
-   "slug": "lightning-network",
-   "name": "Lightning Network",
-   "category": "Payments",
-   "chains": [
-    "Bitcoin"
-   ],
-   "tvl_usd": 217862346,
-   "change_7d": -10.1445,
-   "mcap_usd": null,
-   "listed_at": null,
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": null,
-   "implied_value_usd": 29028107,
-   "model": {
-    "category_multiple": 0.1914,
-    "category_peers": 2,
-    "growth_pct": -10.1445,
-    "growth_multiplier": 0.9493,
-    "maturity_multiplier": 0.7333,
-    "age_days": null
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm Lightning Network with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Deposit $100 of USDC into Lightning Network on Bitcoin and keep the position open. Cost: $100 of capital and about $4 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in Lightning Network, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 30 days so the activity is counted in more than one snapshot. Cost: the $100 stays in the position. Time: 30 days.",
-    "Watch Lightning Network's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 18,
-   "slug": "lofty",
-   "name": "Lofty",
-   "category": "RWA",
-   "chains": [
-    "Algorand"
-   ],
-   "tvl_usd": 101135900,
-   "change_7d": 0.025,
-   "mcap_usd": null,
-   "listed_at": "2022-08-04",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 1563,
-   "implied_value_usd": 25196102,
-   "model": {
-    "category_multiple": 0.2491,
-    "category_peers": 9,
-    "growth_pct": 0.025,
-    "growth_multiplier": 1.0001,
-    "maturity_multiplier": 1,
-    "age_days": 1563
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm Lofty with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Mint $100 of the protocol's yield asset on Algorand and hold it. Cost: $100 of capital and about $4 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in Lofty, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 30 days so the activity is counted in more than one snapshot. Cost: the $100 stays in the position. Time: 30 days.",
-    "Watch Lofty's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 19,
-   "slug": "b14g",
-   "name": "b14g",
-   "category": "Restaking",
-   "chains": [
-    "Bitcoin",
-    "CORE",
-    "Babylon Genesis"
-   ],
-   "tvl_usd": 173941404,
-   "change_7d": -28.5327,
-   "mcap_usd": null,
-   "listed_at": "2024-12-20",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 694,
-   "implied_value_usd": 24361716,
-   "model": {
-    "category_multiple": 0.1914,
-    "category_peers": 2,
-    "growth_pct": -28.5327,
-    "growth_multiplier": 0.8573,
-    "maturity_multiplier": 0.8535,
-    "age_days": 694
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm b14g with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Stake $100 of the chain's staking asset through b14g and keep the receipt. Cost: $100 of capital and about $4 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in b14g, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 30 days so the activity is counted in more than one snapshot. Cost: the $100 stays in the position. Time: 30 days.",
-    "Watch b14g's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  },
-  {
-   "rank": 20,
-   "slug": "lagoon",
-   "name": "Lagoon",
-   "category": "Onchain Capital Allocator",
-   "chains": [
-    "Ethereum",
-    "Arbitrum",
-    "Base",
-    "Binance",
-    "Avalanche",
-    "Plasma",
-    "Hyperliquid L1",
-    "TAC",
-    "Hemi",
-    "Linea",
-    "Rayls",
-    "Monad",
-    "Robinhood Chain",
-    "Optimism",
-    "Katana",
-    "Sonic",
-    "Mantle",
-    "Arc",
-    "Berachain",
-    "Flare",
-    "Polygon",
-    "Unichain",
-    "World Chain"
-   ],
-   "tvl_usd": 151263522,
-   "change_7d": -3.2955,
-   "mcap_usd": null,
-   "listed_at": "2024-12-23",
-   "gecko_id": null,
-   "symbol": null,
-   "token_status": "pre-token",
-   "age_days": 691,
-   "implied_value_usd": 24272478,
-   "model": {
-    "category_multiple": 0.1914,
-    "category_peers": 2,
-    "growth_pct": -3.2955,
-    "growth_multiplier": 0.9835,
-    "maturity_multiplier": 0.8524,
-    "age_days": 691
-   },
-   "farm_steps": [
-    "Use a fresh wallet that holds only the funds you plan to farm Lagoon with, and keep its seed phrase offline. Cost: under $3 of gas for the first transaction. Time: 5 minutes.",
-    "Deposit $100 into a Lagoon vault on Ethereum and keep the shares. Cost: $100 of capital and about $4 of gas. Time: 15 minutes to set up.",
-    "Make one qualifying action each week in Lagoon, such as a deposit, a borrow, a swap or a vote. Cost: about $2 of gas a week. Time: 10 minutes a week.",
-    "Hold the position for at least 30 days so the activity is counted in more than one snapshot. Cost: the $100 stays in the position. Time: 30 days.",
-    "Watch Lagoon's own points or rewards page and its official announcements for a launch or snapshot date, and claim only from a link the protocol itself publishes. Cost: no fee to check, and never pay to claim. Time: 10 minutes a week.",
-    "Write the wallet, the dates and every transaction in a farm log, and revoke approvals you no longer use. Cost: nothing but the log and a few cents of gas. Time: 5 minutes a month."
-   ]
-  }
- ]
+  "note": "First 20 rows of the board this entry writes from the sealed snapshot (as_of 2026-11-14), produced by a real run of main.ts during development. Model radar-3: the log-log size curve, blind-tested in-program (leave-one-out median miss x3.09 vs x5.12 for the flat multiple it replaces).",
+  "rows": [
+    {
+      "rank": 1,
+      "slug": "sentora-curator",
+      "name": "Sentora Curator",
+      "category": "Risk Curators",
+      "chains": [
+        "Ethereum",
+        "Ink",
+        "Solana",
+        "Tempo"
+      ],
+      "tvl_usd": 2757585593,
+      "change_7d": 2.3672,
+      "mcap_usd": null,
+      "listed_at": "2025-10-03",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 407,
+      "implied_value_usd": 87714716,
+      "model": {
+        "curve_base_usd": 87714716,
+        "band_low_usd": 10164183,
+        "band_high_usd": 1459057682,
+        "age_days": 407
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 3.18,
+        "fees_usd": 73,
+        "gas_fees_usd": 72,
+        "fee_pct": 0.001,
+        "tbill_usd": 3.7,
+        "net_usd": -73.52,
+        "work_hours": 2.17,
+        "per_hour_usd": -33.93,
+        "hold_days": 30,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm Sentora Curator with, fund it on Ethereum, and keep its seed phrase offline. Cost: $9.00 of gas on Ethereum. Time: 10 minutes.",
+        "Deposit $1,000 of USDC into a Sentora Curator vault on Ethereum \u2014 pick the vault whose mandate and underlying markets you can name, and keep the vault shares. Cost: $18.00 of gas on Ethereum. Time: 15 minutes to set up.",
+        "Read the curator's allocation page for that vault: which lending markets hold the money, and what the curator earns for steering it. Cost: no gas \u2014 it is reading, not transacting. Time: 15 minutes.",
+        "Check the vault's redemption queue and withdrawal terms before you add another cent; a queue that is growing is the risk, not the yield. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Rebalance or top up the position once a week so the deposit is active in more than one allocation snapshot. Cost: $45.00 of gas on Ethereum across the hold. Time: 10 minutes a week for 5 weeks.",
+        "Hold the position for at least 30 days, checking Sentora Curator's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 5 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $3.18, fees \u2212$73.00, T-bill yield forgone \u2212$3.70, net \u2212$73.52 for 2.2 hours of work (\u2212$33.93 an hour) \u2014 verdict SKIP. Exit by redeeming the vault shares through the queue once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "curator"
+    },
+    {
+      "rank": 2,
+      "slug": "steakhouse-financial",
+      "name": "Steakhouse Financial",
+      "category": "Risk Curators",
+      "chains": [
+        "Base",
+        "Ethereum",
+        "Robinhood Chain",
+        "Arbitrum",
+        "Solana",
+        "Monad",
+        "Arc",
+        "Katana",
+        "Polygon",
+        "Unichain",
+        "Corn"
+      ],
+      "tvl_usd": 2753981495,
+      "change_7d": -2.1935,
+      "mcap_usd": null,
+      "listed_at": "2025-05-20",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 543,
+      "implied_value_usd": 87647850,
+      "model": {
+        "curve_base_usd": 87647850,
+        "band_low_usd": 10156434,
+        "band_high_usd": 1457945425,
+        "age_days": 543
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 3.18,
+        "fees_usd": 3.8,
+        "gas_fees_usd": 2.8,
+        "fee_pct": 0.001,
+        "tbill_usd": 3.7,
+        "net_usd": -4.32,
+        "work_hours": 2.17,
+        "per_hour_usd": -1.99,
+        "hold_days": 30,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm Steakhouse Financial with, fund it on Base, and keep its seed phrase offline. Cost: $0.35 of gas on Base. Time: 10 minutes.",
+        "Deposit $1,000 of USDC into a Steakhouse Financial vault on Base \u2014 pick the vault whose mandate and underlying markets you can name, and keep the vault shares. Cost: $0.70 of gas on Base. Time: 15 minutes to set up.",
+        "Read the curator's allocation page for that vault: which lending markets hold the money, and what the curator earns for steering it. Cost: no gas \u2014 it is reading, not transacting. Time: 15 minutes.",
+        "Check the vault's redemption queue and withdrawal terms before you add another cent; a queue that is growing is the risk, not the yield. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Rebalance or top up the position once a week so the deposit is active in more than one allocation snapshot. Cost: $1.75 of gas on Base across the hold. Time: 10 minutes a week for 5 weeks.",
+        "Hold the position for at least 30 days, checking Steakhouse Financial's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 5 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $3.18, fees \u2212$3.80, T-bill yield forgone \u2212$3.70, net \u2212$4.32 for 2.2 hours of work (\u2212$1.99 an hour) \u2014 verdict SKIP. Exit by redeeming the vault shares through the queue once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "curator"
+    },
+    {
+      "rank": 3,
+      "slug": "gauntlet",
+      "name": "Gauntlet",
+      "category": "Risk Curators",
+      "chains": [
+        "Base",
+        "Binance",
+        "Ethereum",
+        "Arbitrum",
+        "Stable",
+        "Morph",
+        "Solana",
+        "Hyperliquid L1",
+        "Polygon",
+        "Optimism",
+        "Unichain",
+        "Katana",
+        "Arc",
+        "Tempo"
+      ],
+      "tvl_usd": 1577685462,
+      "change_7d": 5.645,
+      "mcap_usd": null,
+      "listed_at": "2025-05-20",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 543,
+      "implied_value_usd": 63338199,
+      "model": {
+        "curve_base_usd": 63338199,
+        "band_low_usd": 7339487,
+        "band_high_usd": 1053575615,
+        "age_days": 543
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 4.01,
+        "fees_usd": 3.8,
+        "gas_fees_usd": 2.8,
+        "fee_pct": 0.001,
+        "tbill_usd": 3.7,
+        "net_usd": -3.48,
+        "work_hours": 2.17,
+        "per_hour_usd": -1.61,
+        "hold_days": 30,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm Gauntlet with, fund it on Base, and keep its seed phrase offline. Cost: $0.35 of gas on Base. Time: 10 minutes.",
+        "Deposit $1,000 of USDC into a Gauntlet vault on Base \u2014 pick the vault whose mandate and underlying markets you can name, and keep the vault shares. Cost: $0.70 of gas on Base. Time: 15 minutes to set up.",
+        "Read the curator's allocation page for that vault: which lending markets hold the money, and what the curator earns for steering it. Cost: no gas \u2014 it is reading, not transacting. Time: 15 minutes.",
+        "Check the vault's redemption queue and withdrawal terms before you add another cent; a queue that is growing is the risk, not the yield. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Rebalance or top up the position once a week so the deposit is active in more than one allocation snapshot. Cost: $1.75 of gas on Base across the hold. Time: 10 minutes a week for 5 weeks.",
+        "Hold the position for at least 30 days, checking Gauntlet's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 5 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $4.01, fees \u2212$3.80, T-bill yield forgone \u2212$3.70, net \u2212$3.48 for 2.2 hours of work (\u2212$1.61 an hour) \u2014 verdict SKIP. Exit by redeeming the vault shares through the queue once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "curator"
+    },
+    {
+      "rank": 4,
+      "slug": "veda",
+      "name": "Veda",
+      "category": "Onchain Capital Allocator",
+      "chains": [
+        "Ink",
+        "Ethereum",
+        "Optimism",
+        "Monad",
+        "Plasma",
+        "Hyperliquid L1",
+        "Arbitrum",
+        "Base",
+        "Berachain",
+        "Sonic",
+        "Binance",
+        "BOB",
+        "Scroll"
+      ],
+      "tvl_usd": 1563415482,
+      "change_7d": -8.2898,
+      "mcap_usd": null,
+      "listed_at": "2025-02-20",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 632,
+      "implied_value_usd": 63003516,
+      "model": {
+        "curve_base_usd": 63003516,
+        "band_low_usd": 7300705,
+        "band_high_usd": 1048008455,
+        "age_days": 632
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 4.03,
+        "fees_usd": 13,
+        "gas_fees_usd": 12,
+        "fee_pct": 0.001,
+        "tbill_usd": 3.7,
+        "net_usd": -12.67,
+        "work_hours": 2.17,
+        "per_hour_usd": -5.85,
+        "hold_days": 30,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm Veda with, fund it on Ink, and keep its seed phrase offline. Cost: $1.50 of gas on Ink. Time: 10 minutes.",
+        "Deposit $1,000 of USDC into a Veda allocation vault on Ink and keep the shares; the allocator steers it across lending markets for you. Cost: $3.00 of gas on Ink. Time: 15 minutes to set up.",
+        "Read where the allocator currently places the vault's money and what would make it move \u2014 that policy is the product you are farming. Cost: no gas \u2014 it is reading, not transacting. Time: 15 minutes.",
+        "Check the vault's withdrawal terms and any lock-up before sizing up; an allocator you cannot leave is a position, not a farm. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Top up or shift vaults once a week so the position is live across several reallocation cycles. Cost: $7.50 of gas on Ink across the hold. Time: 10 minutes a week for 5 weeks.",
+        "Hold the position for at least 30 days, checking Veda's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 5 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $4.03, fees \u2212$13.00, T-bill yield forgone \u2212$3.70, net \u2212$12.67 for 2.2 hours of work (\u2212$5.85 an hour) \u2014 verdict SKIP. Exit by withdrawing from the vault after its notice period once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "allocator"
+    },
+    {
+      "rank": 5,
+      "slug": "usdd",
+      "name": "USDD",
+      "category": "CDP",
+      "chains": [
+        "Tron",
+        "Ethereum",
+        "Binance"
+      ],
+      "tvl_usd": 1055793606,
+      "change_7d": -2.8062,
+      "mcap_usd": null,
+      "listed_at": "2025-03-13",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 611,
+      "implied_value_usd": 50112830,
+      "model": {
+        "curve_base_usd": 50112830,
+        "band_low_usd": 5806961,
+        "band_high_usd": 833583154,
+        "age_days": 611
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 4.75,
+        "fees_usd": 11.8,
+        "gas_fees_usd": 10.8,
+        "fee_pct": 0.001,
+        "tbill_usd": 3.7,
+        "net_usd": -10.75,
+        "work_hours": 2.17,
+        "per_hour_usd": -4.96,
+        "hold_days": 30,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm USDD with, fund it on Tron, and keep its seed phrase offline. Cost: $1.20 of gas on Tron. Time: 10 minutes.",
+        "Lock $1,000 of collateral in a USDD vault on Tron and mint its stablecoin against it \u2014 no more than half the collateral's value. Cost: $2.40 of gas on Tron. Time: 15 minutes to set up.",
+        "Hold or use the minted stablecoin inside the protocol's own markets so the mint is working, not idle. Cost: $1.20 of gas on Tron. Time: 15 minutes.",
+        "Watch the collateral ratio weekly and keep a buffer above liquidation; top up collateral rather than letting the vault be sold. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Repay a slice and re-mint once a week so the vault shows continuing, deliberate use. Cost: $6.00 of gas on Tron across the hold. Time: 10 minutes a week for 5 weeks.",
+        "Hold the position for at least 30 days, checking USDD's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 5 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $4.75, fees \u2212$11.80, T-bill yield forgone \u2212$3.70, net \u2212$10.75 for 2.2 hours of work (\u2212$4.96 an hour) \u2014 verdict SKIP. Exit by repaying the stablecoin debt and unlocking the collateral once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "cdp"
+    },
+    {
+      "rank": 6,
+      "slug": "nonce-capital",
+      "name": "Nonce Capital",
+      "category": "Risk Curators",
+      "chains": [
+        "Ethereum",
+        "Optimism"
+      ],
+      "tvl_usd": 513783671,
+      "change_7d": -9.7377,
+      "mcap_usd": null,
+      "listed_at": "2026-09-30",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 45,
+      "implied_value_usd": 32927290,
+      "model": {
+        "curve_base_usd": 32927290,
+        "band_low_usd": 3815540,
+        "band_high_usd": 547716707,
+        "age_days": 45
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 6.41,
+        "fees_usd": 109,
+        "gas_fees_usd": 108,
+        "fee_pct": 0.001,
+        "tbill_usd": 7.4,
+        "net_usd": -109.99,
+        "work_hours": 3.17,
+        "per_hour_usd": -34.73,
+        "hold_days": 60,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm Nonce Capital with, fund it on Ethereum, and keep its seed phrase offline. Cost: $9.00 of gas on Ethereum. Time: 10 minutes.",
+        "Deposit $1,000 of USDC into a Nonce Capital vault on Ethereum \u2014 pick the vault whose mandate and underlying markets you can name, and keep the vault shares. Cost: $18.00 of gas on Ethereum. Time: 15 minutes to set up.",
+        "Read the curator's allocation page for that vault: which lending markets hold the money, and what the curator earns for steering it. Cost: no gas \u2014 it is reading, not transacting. Time: 15 minutes.",
+        "Check the vault's redemption queue and withdrawal terms before you add another cent; a queue that is growing is the risk, not the yield. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Rebalance or top up the position once a week so the deposit is active in more than one allocation snapshot. Cost: $81.00 of gas on Ethereum across the hold. Time: 10 minutes a week for 9 weeks.",
+        "Hold the position for at least 60 days, checking Nonce Capital's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 9 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $6.41, fees \u2212$109.00, T-bill yield forgone \u2212$7.40, net \u2212$109.99 for 3.2 hours of work (\u2212$34.73 an hour) \u2014 verdict SKIP. Exit by redeeming the vault shares through the queue once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "curator"
+    },
+    {
+      "rank": 7,
+      "slug": "upshift",
+      "name": "Upshift",
+      "category": "Onchain Capital Allocator",
+      "chains": [
+        "Ethereum",
+        "Stellar",
+        "Flare",
+        "Monad",
+        "Hyperliquid L1",
+        "Avalanche",
+        "Solana",
+        "Fluent",
+        "Base",
+        "Citrea",
+        "Sui",
+        "Plasma",
+        "Binance",
+        "Mezo",
+        "Ink"
+      ],
+      "tvl_usd": 499083733,
+      "change_7d": 8.3117,
+      "mcap_usd": null,
+      "listed_at": "2024-12-04",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 710,
+      "implied_value_usd": 32374638,
+      "model": {
+        "curve_base_usd": 32374638,
+        "band_low_usd": 3751500,
+        "band_high_usd": 538523824,
+        "age_days": 710
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 6.49,
+        "fees_usd": 73,
+        "gas_fees_usd": 72,
+        "fee_pct": 0.001,
+        "tbill_usd": 3.7,
+        "net_usd": -70.21,
+        "work_hours": 2.17,
+        "per_hour_usd": -32.41,
+        "hold_days": 30,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm Upshift with, fund it on Ethereum, and keep its seed phrase offline. Cost: $9.00 of gas on Ethereum. Time: 10 minutes.",
+        "Deposit $1,000 of USDC into a Upshift allocation vault on Ethereum and keep the shares; the allocator steers it across lending markets for you. Cost: $18.00 of gas on Ethereum. Time: 15 minutes to set up.",
+        "Read where the allocator currently places the vault's money and what would make it move \u2014 that policy is the product you are farming. Cost: no gas \u2014 it is reading, not transacting. Time: 15 minutes.",
+        "Check the vault's withdrawal terms and any lock-up before sizing up; an allocator you cannot leave is a position, not a farm. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Top up or shift vaults once a week so the position is live across several reallocation cycles. Cost: $45.00 of gas on Ethereum across the hold. Time: 10 minutes a week for 5 weeks.",
+        "Hold the position for at least 30 days, checking Upshift's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 5 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $6.49, fees \u2212$73.00, T-bill yield forgone \u2212$3.70, net \u2212$70.21 for 2.2 hours of work (\u2212$32.41 an hour) \u2014 verdict SKIP. Exit by withdrawing from the vault after its notice period once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "allocator"
+    },
+    {
+      "rank": 8,
+      "slug": "bittensor-dtao",
+      "name": "Bittensor dTAO",
+      "category": "Dexs",
+      "chains": [
+        "Bittensor"
+      ],
+      "tvl_usd": 376026255,
+      "change_7d": -6.5592,
+      "mcap_usd": null,
+      "listed_at": "2026-09-19",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 56,
+      "implied_value_usd": 27447937,
+      "model": {
+        "curve_base_usd": 27447937,
+        "band_low_usd": 3180605,
+        "band_high_usd": 456572456,
+        "age_days": 56
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 7.3,
+        "fees_usd": 22.5,
+        "gas_fees_usd": 19.5,
+        "fee_pct": 0.003,
+        "tbill_usd": 7.4,
+        "net_usd": -22.6,
+        "work_hours": 3.17,
+        "per_hour_usd": -7.14,
+        "hold_days": 60,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm Bittensor dTAO with, fund it on Bittensor, and keep its seed phrase offline. Cost: $1.50 of gas on Bittensor. Time: 10 minutes.",
+        "Provide $1,000 of liquidity to Bittensor dTAO's main USDC pool on Bittensor, split across the pair, and keep the position open. Cost: $3.00 of gas on Bittensor. Time: 15 minutes to set up.",
+        "Claim the trading fees the position earns once they are worth more than the gas to claim them. Cost: $1.50 of gas on Bittensor. Time: 15 minutes.",
+        "Check the position's range and impermanent loss weekly; a pool whose price has left your liquidity idle is earning nothing. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Add or remove a small slice of liquidity once a week so the position is active across several fee snapshots. Cost: $13.50 of gas on Bittensor across the hold. Time: 10 minutes a week for 9 weeks.",
+        "Hold the position for at least 60 days, checking Bittensor dTAO's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 9 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $7.30, fees \u2212$22.50, T-bill yield forgone \u2212$7.40, net \u2212$22.60 for 3.2 hours of work (\u2212$7.14 an hour) \u2014 verdict SKIP. Exit by removing the liquidity and swapping back to USDC once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "dex"
+    },
+    {
+      "rank": 9,
+      "slug": "polymarket-international",
+      "name": "Polymarket International",
+      "category": "Prediction Market",
+      "chains": [
+        "Polygon"
+      ],
+      "tvl_usd": 320193439,
+      "change_7d": -1.0817,
+      "mcap_usd": null,
+      "listed_at": "2021-10-26",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 1845,
+      "implied_value_usd": 24992286,
+      "model": {
+        "curve_base_usd": 24992286,
+        "band_low_usd": 2896050,
+        "band_high_usd": 415724847,
+        "age_days": 1845
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 7.81,
+        "fees_usd": 4.25,
+        "gas_fees_usd": 2.25,
+        "fee_pct": 0.002,
+        "tbill_usd": 3.7,
+        "net_usd": -0.14,
+        "work_hours": 2.17,
+        "per_hour_usd": -0.07,
+        "hold_days": 30,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm Polymarket International with, fund it on Polygon, and keep its seed phrase offline. Cost: $0.25 of gas on Polygon. Time: 10 minutes.",
+        "Fund a Polymarket International account with $1,000 of USDC on Polygon. Cost: $0.50 of gas on Polygon. Time: 15 minutes to set up.",
+        "Place one position in a liquid market you can state a view on, sized so being wrong costs little. Cost: $0.25 of gas on Polygon. Time: 15 minutes.",
+        "Read the market's resolution rules before the event, not after: an oracle dispute can hold a winning position for weeks. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Place one further position each week so the account trades through the whole window, and settle each market as it resolves. Cost: $1.25 of gas on Polygon across the hold. Time: 10 minutes a week for 5 weeks.",
+        "Hold the position for at least 30 days, checking Polymarket International's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 5 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $7.81, fees \u2212$4.25, T-bill yield forgone \u2212$3.70, net \u2212$0.14 for 2.2 hours of work (\u2212$0.07 an hour) \u2014 verdict SKIP. Exit by settling resolved markets and withdrawing the balance once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "prediction"
+    },
+    {
+      "rank": 10,
+      "slug": "onre",
+      "name": "OnRe",
+      "category": "RWA",
+      "chains": [
+        "Solana"
+      ],
+      "tvl_usd": 308882355,
+      "change_7d": 0.1082,
+      "mcap_usd": null,
+      "listed_at": "2025-07-14",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 488,
+      "implied_value_usd": 24473628,
+      "model": {
+        "curve_base_usd": 24473628,
+        "band_low_usd": 2835949,
+        "band_high_usd": 407097424,
+        "age_days": 488
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 7.92,
+        "fees_usd": 1.4,
+        "gas_fees_usd": 0.4,
+        "fee_pct": 0.001,
+        "tbill_usd": 3.7,
+        "net_usd": 2.82,
+        "work_hours": 2.17,
+        "per_hour_usd": 1.3,
+        "hold_days": 30,
+        "verdict": "THIN"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm OnRe with, fund it on Solana, and keep its seed phrase offline. Cost: $0.05 of gas on Solana. Time: 10 minutes.",
+        "Subscribe $1,000 to OnRe's yield asset on Solana, completing any whitelist or eligibility step the issuer requires first. Cost: $0.10 of gas on Solana. Time: 15 minutes to set up.",
+        "Hold the asset in the farming wallet so the accrual and the holding period are both visible on-chain. Cost: no gas \u2014 it is reading, not transacting. Time: 15 minutes.",
+        "Read the issuer's redemption terms and the asset's underlying report; off-chain yield is a promise, and its paperwork is the risk. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Check the accrual and any new issuance window once a week, and top up only inside a window the issuer itself opens. Cost: $0.25 of gas on Solana across the hold. Time: 10 minutes a week for 5 weeks.",
+        "Hold the position for at least 30 days, checking OnRe's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 5 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $7.92, fees \u2212$1.40, T-bill yield forgone \u2212$3.70, net +$2.82 for 2.2 hours of work (+$1.30 an hour) \u2014 verdict THIN. Exit by redeeming through the issuer at its stated window once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "rwa"
+    },
+    {
+      "rank": 11,
+      "slug": "rockawayx",
+      "name": "RockawayX",
+      "category": "Risk Curators",
+      "chains": [
+        "Ethereum",
+        "Solana",
+        "Pharos",
+        "Monad",
+        "Sei",
+        "Base",
+        "Binance",
+        "Citrea",
+        "Etherlink",
+        "Plume Mainnet"
+      ],
+      "tvl_usd": 292506628,
+      "change_7d": -2.5459,
+      "mcap_usd": null,
+      "listed_at": "2026-03-26",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 233,
+      "implied_value_usd": 23708481,
+      "model": {
+        "curve_base_usd": 23708481,
+        "band_low_usd": 2747285,
+        "band_high_usd": 394369872,
+        "age_days": 233
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 8.11,
+        "fees_usd": 91,
+        "gas_fees_usd": 90,
+        "fee_pct": 0.001,
+        "tbill_usd": 5.55,
+        "net_usd": -88.44,
+        "work_hours": 2.67,
+        "per_hour_usd": -33.17,
+        "hold_days": 45,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm RockawayX with, fund it on Ethereum, and keep its seed phrase offline. Cost: $9.00 of gas on Ethereum. Time: 10 minutes.",
+        "Deposit $1,000 of USDC into a RockawayX vault on Ethereum \u2014 pick the vault whose mandate and underlying markets you can name, and keep the vault shares. Cost: $18.00 of gas on Ethereum. Time: 15 minutes to set up.",
+        "Read the curator's allocation page for that vault: which lending markets hold the money, and what the curator earns for steering it. Cost: no gas \u2014 it is reading, not transacting. Time: 15 minutes.",
+        "Check the vault's redemption queue and withdrawal terms before you add another cent; a queue that is growing is the risk, not the yield. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Rebalance or top up the position once a week so the deposit is active in more than one allocation snapshot. Cost: $63.00 of gas on Ethereum across the hold. Time: 10 minutes a week for 7 weeks.",
+        "Hold the position for at least 45 days, checking RockawayX's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 7 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $8.11, fees \u2212$91.00, T-bill yield forgone \u2212$5.55, net \u2212$88.44 for 2.7 hours of work (\u2212$33.17 an hour) \u2014 verdict SKIP. Exit by redeeming the vault shares through the queue once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "curator"
+    },
+    {
+      "rank": 12,
+      "slug": "cian-yield-layer",
+      "name": "CIAN Yield Layer",
+      "category": "Yield Aggregator",
+      "chains": [
+        "Ethereum",
+        "Mantle",
+        "Arbitrum",
+        "Optimism",
+        "Base",
+        "Binance",
+        "Scroll"
+      ],
+      "tvl_usd": 280281384,
+      "change_7d": 4.6717,
+      "mcap_usd": null,
+      "listed_at": "2024-11-18",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 726,
+      "implied_value_usd": 23125557,
+      "model": {
+        "curve_base_usd": 23125557,
+        "band_low_usd": 2679737,
+        "band_high_usd": 384673441,
+        "age_days": 726
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 8.25,
+        "fees_usd": 73,
+        "gas_fees_usd": 72,
+        "fee_pct": 0.001,
+        "tbill_usd": 3.7,
+        "net_usd": -68.45,
+        "work_hours": 2.17,
+        "per_hour_usd": -31.59,
+        "hold_days": 30,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm CIAN Yield Layer with, fund it on Ethereum, and keep its seed phrase offline. Cost: $9.00 of gas on Ethereum. Time: 10 minutes.",
+        "Deposit $1,000 of USDC into CIAN Yield Layer's main vault on Ethereum and keep the vault shares; the strategy compounds the underlying yield. Cost: $18.00 of gas on Ethereum. Time: 15 minutes to set up.",
+        "Read the strategy page: which pools or markets the vault is in today, and what it earned over the last month after its own fees. Cost: no gas \u2014 it is reading, not transacting. Time: 15 minutes.",
+        "Check what the shares are redeemable for and how long redemption takes; a share you cannot price is a share you cannot exit. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Top up the vault once a week so the balance is present in every weekly snapshot the protocol takes. Cost: $45.00 of gas on Ethereum across the hold. Time: 10 minutes a week for 5 weeks.",
+        "Hold the position for at least 30 days, checking CIAN Yield Layer's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 5 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $8.25, fees \u2212$73.00, T-bill yield forgone \u2212$3.70, net \u2212$68.45 for 2.2 hours of work (\u2212$31.59 an hour) \u2014 verdict SKIP. Exit by redeeming the vault shares for the underlying once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "vault"
+    },
+    {
+      "rank": 13,
+      "slug": "defi-saver-asset-management",
+      "name": "Defi Saver Asset Management",
+      "category": "CDP Manager",
+      "chains": [
+        "Ethereum",
+        "Arbitrum",
+        "Optimism",
+        "Base"
+      ],
+      "tvl_usd": 276366296,
+      "change_7d": -19.5797,
+      "mcap_usd": null,
+      "listed_at": null,
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": null,
+      "implied_value_usd": 22936648,
+      "model": {
+        "curve_base_usd": 22936648,
+        "band_low_usd": 2657847,
+        "band_high_usd": 381531104,
+        "age_days": null
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 8.3,
+        "fees_usd": 82,
+        "gas_fees_usd": 81,
+        "fee_pct": 0.001,
+        "tbill_usd": 3.7,
+        "net_usd": -77.4,
+        "work_hours": 2.17,
+        "per_hour_usd": -35.72,
+        "hold_days": 30,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm Defi Saver Asset Management with, fund it on Ethereum, and keep its seed phrase offline. Cost: $9.00 of gas on Ethereum. Time: 10 minutes.",
+        "Lock $1,000 of collateral in a Defi Saver Asset Management vault on Ethereum and mint its stablecoin against it \u2014 no more than half the collateral's value. Cost: $18.00 of gas on Ethereum. Time: 15 minutes to set up.",
+        "Hold or use the minted stablecoin inside the protocol's own markets so the mint is working, not idle. Cost: $9.00 of gas on Ethereum. Time: 15 minutes.",
+        "Watch the collateral ratio weekly and keep a buffer above liquidation; top up collateral rather than letting the vault be sold. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Repay a slice and re-mint once a week so the vault shows continuing, deliberate use. Cost: $45.00 of gas on Ethereum across the hold. Time: 10 minutes a week for 5 weeks.",
+        "Hold the position for at least 30 days, checking Defi Saver Asset Management's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 5 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $8.30, fees \u2212$82.00, T-bill yield forgone \u2212$3.70, net \u2212$77.40 for 2.2 hours of work (\u2212$35.72 an hour) \u2014 verdict SKIP. Exit by repaying the stablecoin debt and unlocking the collateral once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "cdp"
+    },
+    {
+      "rank": 14,
+      "slug": "symbiotic",
+      "name": "Symbiotic",
+      "category": "Collateral Markets",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl_usd": 253923299,
+      "change_7d": -12.0318,
+      "mcap_usd": null,
+      "listed_at": "2024-06-11",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 886,
+      "implied_value_usd": 21831424,
+      "model": {
+        "curve_base_usd": 21831424,
+        "band_low_usd": 2529776,
+        "band_high_usd": 363146669,
+        "age_days": 886
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 8.6,
+        "fees_usd": 91,
+        "gas_fees_usd": 90,
+        "fee_pct": 0.001,
+        "tbill_usd": 3.7,
+        "net_usd": -86.1,
+        "work_hours": 2.17,
+        "per_hour_usd": -39.74,
+        "hold_days": 30,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm Symbiotic with, fund it on Ethereum, and keep its seed phrase offline. Cost: $9.00 of gas on Ethereum. Time: 10 minutes.",
+        "Supply $1,000 of USDC to Symbiotic on Ethereum as collateral and leave the position open. Cost: $18.00 of gas on Ethereum. Time: 15 minutes to set up.",
+        "Borrow a small amount \u2014 no more than a fifth of the collateral \u2014 against it, hold it a few days, then repay in full; the round trip is the qualifying activity. Cost: $18.00 of gas on Ethereum. Time: 15 minutes.",
+        "Keep the health factor comfortably high and set a liquidation alert: a farmed position that gets liquidated loses more than any launch pays. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Repeat the small borrow-and-repay cycle once a week so the account shows real, repeated use. Cost: $45.00 of gas on Ethereum across the hold. Time: 10 minutes a week for 5 weeks.",
+        "Hold the position for at least 30 days, checking Symbiotic's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 5 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $8.60, fees \u2212$91.00, T-bill yield forgone \u2212$3.70, net \u2212$86.10 for 2.2 hours of work (\u2212$39.74 an hour) \u2014 verdict SKIP. Exit by repaying any borrow and withdrawing the collateral once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "lending"
+    },
+    {
+      "rank": 15,
+      "slug": "opentrade",
+      "name": "OpenTrade",
+      "category": "RWA",
+      "chains": [
+        "Avalanche",
+        "Ethereum",
+        "Plume Mainnet"
+      ],
+      "tvl_usd": 241501527,
+      "change_7d": -1.642,
+      "mcap_usd": null,
+      "listed_at": "2024-12-06",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 708,
+      "implied_value_usd": 21202183,
+      "model": {
+        "curve_base_usd": 21202183,
+        "band_low_usd": 2456861,
+        "band_high_usd": 352679794,
+        "age_days": 708
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 8.78,
+        "fees_usd": 6.6,
+        "gas_fees_usd": 5.6,
+        "fee_pct": 0.001,
+        "tbill_usd": 3.7,
+        "net_usd": -1.52,
+        "work_hours": 2.17,
+        "per_hour_usd": -0.7,
+        "hold_days": 30,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm OpenTrade with, fund it on Avalanche, and keep its seed phrase offline. Cost: $0.70 of gas on Avalanche. Time: 10 minutes.",
+        "Subscribe $1,000 to OpenTrade's yield asset on Avalanche, completing any whitelist or eligibility step the issuer requires first. Cost: $1.40 of gas on Avalanche. Time: 15 minutes to set up.",
+        "Hold the asset in the farming wallet so the accrual and the holding period are both visible on-chain. Cost: no gas \u2014 it is reading, not transacting. Time: 15 minutes.",
+        "Read the issuer's redemption terms and the asset's underlying report; off-chain yield is a promise, and its paperwork is the risk. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Check the accrual and any new issuance window once a week, and top up only inside a window the issuer itself opens. Cost: $3.50 of gas on Avalanche across the hold. Time: 10 minutes a week for 5 weeks.",
+        "Hold the position for at least 30 days, checking OpenTrade's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 5 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $8.78, fees \u2212$6.60, T-bill yield forgone \u2212$3.70, net \u2212$1.52 for 2.2 hours of work (\u2212$0.70 an hour) \u2014 verdict SKIP. Exit by redeeming through the issuer at its stated window once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "rwa"
+    },
+    {
+      "rank": 16,
+      "slug": "mellow-core",
+      "name": "Mellow Core",
+      "category": "Onchain Capital Allocator",
+      "chains": [
+        "Ethereum",
+        "Robinhood Chain",
+        "RSK",
+        "Mezo",
+        "Monad"
+      ],
+      "tvl_usd": 232572763,
+      "change_7d": -8.5335,
+      "mcap_usd": null,
+      "listed_at": "2026-01-28",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 290,
+      "implied_value_usd": 20741515,
+      "model": {
+        "curve_base_usd": 20741515,
+        "band_low_usd": 2403480,
+        "band_high_usd": 345016984,
+        "age_days": 290
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 8.92,
+        "fees_usd": 91,
+        "gas_fees_usd": 90,
+        "fee_pct": 0.001,
+        "tbill_usd": 5.55,
+        "net_usd": -87.63,
+        "work_hours": 2.67,
+        "per_hour_usd": -32.86,
+        "hold_days": 45,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm Mellow Core with, fund it on Ethereum, and keep its seed phrase offline. Cost: $9.00 of gas on Ethereum. Time: 10 minutes.",
+        "Deposit $1,000 of USDC into a Mellow Core allocation vault on Ethereum and keep the shares; the allocator steers it across lending markets for you. Cost: $18.00 of gas on Ethereum. Time: 15 minutes to set up.",
+        "Read where the allocator currently places the vault's money and what would make it move \u2014 that policy is the product you are farming. Cost: no gas \u2014 it is reading, not transacting. Time: 15 minutes.",
+        "Check the vault's withdrawal terms and any lock-up before sizing up; an allocator you cannot leave is a position, not a farm. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Top up or shift vaults once a week so the position is live across several reallocation cycles. Cost: $63.00 of gas on Ethereum across the hold. Time: 10 minutes a week for 7 weeks.",
+        "Hold the position for at least 45 days, checking Mellow Core's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 7 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $8.92, fees \u2212$91.00, T-bill yield forgone \u2212$5.55, net \u2212$87.63 for 2.7 hours of work (\u2212$32.86 an hour) \u2014 verdict SKIP. Exit by withdrawing from the vault after its notice period once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "allocator"
+    },
+    {
+      "rank": 17,
+      "slug": "hyperithm",
+      "name": "Hyperithm",
+      "category": "Risk Curators",
+      "chains": [
+        "Monad",
+        "Ethereum",
+        "Arbitrum",
+        "Plasma",
+        "Solana",
+        "Hyperliquid L1",
+        "Katana",
+        "Stable",
+        "XRPL EVM",
+        "Binance"
+      ],
+      "tvl_usd": 221638535,
+      "change_7d": -4.375,
+      "mcap_usd": null,
+      "listed_at": "2025-05-20",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 543,
+      "implied_value_usd": 20167207,
+      "model": {
+        "curve_base_usd": 20167207,
+        "band_low_usd": 2336930,
+        "band_high_usd": 335463872,
+        "age_days": 543
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 9.1,
+        "fees_usd": 13,
+        "gas_fees_usd": 12,
+        "fee_pct": 0.001,
+        "tbill_usd": 3.7,
+        "net_usd": -7.6,
+        "work_hours": 2.17,
+        "per_hour_usd": -3.51,
+        "hold_days": 30,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm Hyperithm with, fund it on Monad, and keep its seed phrase offline. Cost: $1.50 of gas on Monad. Time: 10 minutes.",
+        "Deposit $1,000 of USDC into a Hyperithm vault on Monad \u2014 pick the vault whose mandate and underlying markets you can name, and keep the vault shares. Cost: $3.00 of gas on Monad. Time: 15 minutes to set up.",
+        "Read the curator's allocation page for that vault: which lending markets hold the money, and what the curator earns for steering it. Cost: no gas \u2014 it is reading, not transacting. Time: 15 minutes.",
+        "Check the vault's redemption queue and withdrawal terms before you add another cent; a queue that is growing is the risk, not the yield. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Rebalance or top up the position once a week so the deposit is active in more than one allocation snapshot. Cost: $7.50 of gas on Monad across the hold. Time: 10 minutes a week for 5 weeks.",
+        "Hold the position for at least 30 days, checking Hyperithm's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 5 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $9.10, fees \u2212$13.00, T-bill yield forgone \u2212$3.70, net \u2212$7.60 for 2.2 hours of work (\u2212$3.51 an hour) \u2014 verdict SKIP. Exit by redeeming the vault shares through the queue once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "curator"
+    },
+    {
+      "rank": 18,
+      "slug": "lightning-network",
+      "name": "Lightning Network",
+      "category": "Payments",
+      "chains": [
+        "Bitcoin"
+      ],
+      "tvl_usd": 217862346,
+      "change_7d": -10.1445,
+      "mcap_usd": null,
+      "listed_at": null,
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": null,
+      "implied_value_usd": 19966136,
+      "model": {
+        "curve_base_usd": 19966136,
+        "band_low_usd": 2313631,
+        "band_high_usd": 332119232,
+        "age_days": null
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 9.16,
+        "fees_usd": 14.5,
+        "gas_fees_usd": 13.5,
+        "fee_pct": 0.001,
+        "tbill_usd": 3.7,
+        "net_usd": -9.03,
+        "work_hours": 2.17,
+        "per_hour_usd": -4.17,
+        "hold_days": 30,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm Lightning Network with, fund it on Bitcoin, and keep its seed phrase offline. Cost: $1.50 of gas on Bitcoin. Time: 10 minutes.",
+        "Open a Lightning Network account and fund it with $1,000 of USDC on Bitcoin. Cost: $3.00 of gas on Bitcoin. Time: 15 minutes to set up.",
+        "Route one real payment or card transaction through it, however small, so the account is used as intended. Cost: $1.50 of gas on Bitcoin. Time: 15 minutes.",
+        "Read the fee schedule and the cashback or rewards terms before routing anything larger; the spread is the cost of this farm. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Make one payment a week through the account so its activity spans the whole window. Cost: $7.50 of gas on Bitcoin across the hold. Time: 10 minutes a week for 5 weeks.",
+        "Hold the position for at least 30 days, checking Lightning Network's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 5 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $9.16, fees \u2212$14.50, T-bill yield forgone \u2212$3.70, net \u2212$9.03 for 2.2 hours of work (\u2212$4.17 an hour) \u2014 verdict SKIP. Exit by withdrawing the remaining balance once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "payments"
+    },
+    {
+      "rank": 19,
+      "slug": "bitfi-basis",
+      "name": "BitFi Basis",
+      "category": "Basis Trading",
+      "chains": [
+        "Binance",
+        "Ethereum",
+        "Base",
+        "Pharos",
+        "Hemi",
+        "Bitlayer",
+        "CORE"
+      ],
+      "tvl_usd": 214934379,
+      "change_7d": -10.2604,
+      "mcap_usd": null,
+      "listed_at": "2025-02-14",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 638,
+      "implied_value_usd": 19809229,
+      "model": {
+        "curve_base_usd": 19809229,
+        "band_low_usd": 2295449,
+        "band_high_usd": 329509221,
+        "age_days": 638
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 9.22,
+        "fees_usd": 4.2,
+        "gas_fees_usd": 3.2,
+        "fee_pct": 0.001,
+        "tbill_usd": 3.7,
+        "net_usd": 1.32,
+        "work_hours": 2.17,
+        "per_hour_usd": 0.61,
+        "hold_days": 30,
+        "verdict": "THIN"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm BitFi Basis with, fund it on Binance, and keep its seed phrase offline. Cost: $0.40 of gas on Binance. Time: 10 minutes.",
+        "Deposit $1,000 of USDC into BitFi Basis's basis vault on Binance and keep the shares; the vault holds the spot leg and shorts the future. Cost: $0.80 of gas on Binance. Time: 15 minutes to set up.",
+        "Read the vault's current funding capture and which venues hold the short leg before you size up. Cost: no gas \u2014 it is reading, not transacting. Time: 15 minutes.",
+        "Check the funding rate the vault is earning weekly: when funding turns negative the vault pays to hold its hedge, and that is your cost. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Top up once a week so the deposit spans several funding settlements. Cost: $2.00 of gas on Binance across the hold. Time: 10 minutes a week for 5 weeks.",
+        "Hold the position for at least 30 days, checking BitFi Basis's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 5 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $9.22, fees \u2212$4.20, T-bill yield forgone \u2212$3.70, net +$1.32 for 2.2 hours of work (+$0.61 an hour) \u2014 verdict THIN. Exit by redeeming the vault shares after the funding cycle settles once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "basis"
+    },
+    {
+      "rank": 20,
+      "slug": "plume-vaults",
+      "name": "Plume Vaults",
+      "category": "RWA",
+      "chains": [
+        "Ethereum",
+        "Plume Mainnet",
+        "Solana",
+        "Binance",
+        "Avalanche"
+      ],
+      "tvl_usd": 211537977,
+      "change_7d": -3.081,
+      "mcap_usd": null,
+      "listed_at": "2024-10-26",
+      "gecko_id": null,
+      "symbol": null,
+      "token_status": "pre-token",
+      "age_days": 749,
+      "implied_value_usd": 19626097,
+      "model": {
+        "curve_base_usd": 19626097,
+        "band_low_usd": 2274228,
+        "band_high_usd": 326462980,
+        "age_days": 749
+      },
+      "farm": {
+        "capital_usd": 1000,
+        "slice_usd": 9.28,
+        "fees_usd": 73,
+        "gas_fees_usd": 72,
+        "fee_pct": 0.001,
+        "tbill_usd": 3.7,
+        "net_usd": -67.42,
+        "work_hours": 2.17,
+        "per_hour_usd": -31.12,
+        "hold_days": 30,
+        "verdict": "SKIP"
+      },
+      "farm_steps": [
+        "Use a fresh wallet that holds only the $1,000 you plan to farm Plume Vaults with, fund it on Ethereum, and keep its seed phrase offline. Cost: $9.00 of gas on Ethereum. Time: 10 minutes.",
+        "Subscribe $1,000 to Plume Vaults's yield asset on Ethereum, completing any whitelist or eligibility step the issuer requires first. Cost: $18.00 of gas on Ethereum. Time: 15 minutes to set up.",
+        "Hold the asset in the farming wallet so the accrual and the holding period are both visible on-chain. Cost: no gas \u2014 it is reading, not transacting. Time: 15 minutes.",
+        "Read the issuer's redemption terms and the asset's underlying report; off-chain yield is a promise, and its paperwork is the risk. Cost: no gas \u2014 it is reading, not transacting. Time: 10 minutes.",
+        "Check the accrual and any new issuance window once a week, and top up only inside a window the issuer itself opens. Cost: $45.00 of gas on Ethereum across the hold. Time: 10 minutes a week for 5 weeks.",
+        "Hold the position for at least 30 days, checking Plume Vaults's own points or rewards page weekly, and claim only from a link the protocol itself publishes. Cost: no gas to look, and never pay to claim. Time: 5 minutes a week for 5 weeks.",
+        "Add it up before you commit: on $1,000 the expected slice is $9.28, fees \u2212$73.00, T-bill yield forgone \u2212$3.70, net \u2212$67.42 for 2.2 hours of work (\u2212$31.12 an hour) \u2014 verdict SKIP. Exit by redeeming through the issuer at its stated window once any allocation lands. Cost: nothing to run the numbers. Time: 5 minutes."
+      ],
+      "play": "rwa"
+    }
+  ]
 }
