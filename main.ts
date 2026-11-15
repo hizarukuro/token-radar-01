@@ -15,7 +15,8 @@
 import { copyFileSync, existsSync, mkdirSync, readFileSync, readdirSync, statSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { boardIssue, buildRadar, dataScript, parseSnapshot } from './lib/model.ts';
+import { boardIssue, buildRadar, dataScript, parseSnapshot, type RadarData } from './lib/model.ts';
+import { buildAnalysis, type Analysis } from './lib/analysis.ts';
 import { buildDossier } from './vendor/makefun-board.ts';
 
 const here = fileURLToPath(new URL('.', import.meta.url));
@@ -48,10 +49,15 @@ if (issue !== null) {
   process.stderr.write(`token radar: the model wrote a board the gate refuses: ${issue}\n`);
   process.exit(1);
 }
+// The board is the model's whole answer; the analysis only accounts for it (the funnel of
+// every protocol scanned, the model's blind-test error, each row's blind-test range) and
+// rides along in data.js for the dashboard's Set aside and Method views.
+const analysis = buildAnalysis(snapshot, board);
+const data: RadarData & Analysis = { ...radar, ...analysis };
 
 mkdirSync(out, { recursive: true });
 writeFileSync(join(out, 'board.json'), `${JSON.stringify({ rows: board })}\n`);
-writeFileSync(join(out, 'data.js'), dataScript(radar));
+writeFileSync(join(out, 'data.js'), dataScript(data));
 
 /** Copy one directory's regular files into `to`, skipping names that start with a dot. */
 function copyFiles(from: string, to: string): string[] {
